@@ -1,0 +1,2 @@
+# Anti-Adblock
+Building an Anti-Adblocker information tutorials to help websites and publishers fight against browsers running adblockers and programs / extensions that disable advertisements from being displayed by using Javascript and HTML5 functions stop loosing revenue and allowing adblocking to kill of and break your websites. No ads viewed or displayed means no content accessible for the users who do not load your ads.
